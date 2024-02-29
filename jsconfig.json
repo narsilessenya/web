@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "include": ["src/**/*", "src/views/utilities/.js"],
+  "exclude": ["node_modules"]
+}
